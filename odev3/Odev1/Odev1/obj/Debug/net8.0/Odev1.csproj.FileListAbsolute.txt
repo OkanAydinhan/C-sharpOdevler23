@@ -1,0 +1,14 @@
+C:\Users\90534\Desktop\odev3\Odev1\Odev1\bin\Debug\net8.0\Odev1.exe
+C:\Users\90534\Desktop\odev3\Odev1\Odev1\bin\Debug\net8.0\Odev1.deps.json
+C:\Users\90534\Desktop\odev3\Odev1\Odev1\bin\Debug\net8.0\Odev1.runtimeconfig.json
+C:\Users\90534\Desktop\odev3\Odev1\Odev1\bin\Debug\net8.0\Odev1.dll
+C:\Users\90534\Desktop\odev3\Odev1\Odev1\bin\Debug\net8.0\Odev1.pdb
+C:\Users\90534\Desktop\odev3\Odev1\Odev1\obj\Debug\net8.0\Odev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90534\Desktop\odev3\Odev1\Odev1\obj\Debug\net8.0\Odev1.AssemblyInfoInputs.cache
+C:\Users\90534\Desktop\odev3\Odev1\Odev1\obj\Debug\net8.0\Odev1.AssemblyInfo.cs
+C:\Users\90534\Desktop\odev3\Odev1\Odev1\obj\Debug\net8.0\Odev1.csproj.CoreCompileInputs.cache
+C:\Users\90534\Desktop\odev3\Odev1\Odev1\obj\Debug\net8.0\Odev1.dll
+C:\Users\90534\Desktop\odev3\Odev1\Odev1\obj\Debug\net8.0\refint\Odev1.dll
+C:\Users\90534\Desktop\odev3\Odev1\Odev1\obj\Debug\net8.0\Odev1.pdb
+C:\Users\90534\Desktop\odev3\Odev1\Odev1\obj\Debug\net8.0\Odev1.genruntimeconfig.cache
+C:\Users\90534\Desktop\odev3\Odev1\Odev1\obj\Debug\net8.0\ref\Odev1.dll

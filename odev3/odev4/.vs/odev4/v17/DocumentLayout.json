@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\90534\\Desktop\\odev3\\odev4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4574E797-C72C-4325-BEBB-B55B17BD95C5}|odev4\\odev4.csproj|c:\\users\\90534\\desktop\\odev3\\odev4\\odev4\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4574E797-C72C-4325-BEBB-B55B17BD95C5}|odev4\\odev4.csproj|solutionrelative:odev4\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4574E797-C72C-4325-BEBB-B55B17BD95C5}|odev4\\odev4.csproj|c:\\users\\90534\\desktop\\odev3\\odev4\\odev4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4574E797-C72C-4325-BEBB-B55B17BD95C5}|odev4\\odev4.csproj|solutionrelative:odev4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calisan.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\odev3\\odev4\\odev4\\Calisan.cs",
+              "RelativeDocumentMoniker": "odev4\\Calisan.cs",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\odev3\\odev4\\odev4\\Calisan.cs",
+              "RelativeToolTip": "odev4\\Calisan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:29:24.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\odev3\\odev4\\odev4\\Program.cs",
+              "RelativeDocumentMoniker": "odev4\\Program.cs",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\odev3\\odev4\\odev4\\Program.cs",
+              "RelativeToolTip": "odev4\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:28:05.039Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
